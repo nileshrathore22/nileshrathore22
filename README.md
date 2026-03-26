@@ -1,91 +1,94 @@
-<h1 align="center">Hi 👋, I'm Nilesh Rathore</h1>
-<h3 align="center">Backend Developer | AI/ML Engineer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nilesh%20Rathore&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20|%20AI/ML%20|%20System%20Design&descAlignY=51&descAlign=62" />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Architecting+Robust+APIs+with+Spring+Boot;AI%2FML+Integration+Expert;Optimizing+Performance+%26+System+Design" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nilesh-rathore-5a62ab325?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilesh-rathore" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/_nilesh_7_x_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nilesh_7_x_" height="30" width="40" /></a>
-  <a href="mailto:nileshrathore1522@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" /></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/nilesh-rathore-5a62ab325?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:nileshrathore1522@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/_nilesh_7_x_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</div>
+
+<br>
+
+## 🚀 About Me
+I am a **Software Engineer** specializing in **Backend Development, System Design, and Data-Driven Architecture**. I focus on building highly scalable, fault-tolerant enterprise applications and integrating AI models to solve complex real-world problems.
+
+- 🏗️ **Core Focus:** Distributed Systems, Microservices, API Design, and Database Optimization.
+- ⚙️ **Currently Engineering:** Low-latency backend services and full-stack platforms ensuring high availability.
+- 🧠 **AI/ML Integration:** Developing NLP-driven engines and machine learning pipelines.
+- 🎓 **Academics:** B.Tech in Computer Science, Sangam University (9.22 GPA).
+- 🏆 **Milestones:** Solved **250+** LeetCode/CodeChef DSA challenges, emphasizing algorithmic efficiency.
+
+<br>
+
+## 🛠️ Tech Stack & Arsenal
+
+### ⚙️ Backend & System Design
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=openapi-initiative&logoColor=white" alt="REST APIs" />
 </p>
 
-- 🔭 High-performing Computer Science undergraduate specializing in **Full Stack Development, Backend Engineering, and AI/ML systems**.
-- 🌱 I’m currently pursuing my B.Tech in CS at **Sangam University** with a stellar GPA of **9.22/10.0**
-- 👯 I’m looking to collaborate on Open Source, web applications, REST APIs, and NLP-driven intelligent systems.
-- 💬 Ask me about **Java, Python, Javascript, React, Node.js, and Machine Learning**
-- 📫 How to reach me **[nileshrathore1522@gmail.com](mailto:nileshrathore1522@gmail.com)**
-- ⚡ Fun fact: **Solved 250+ DSA problems on LeetCode and CodeChef!**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-
-  <!-- Frontend -->
-  <br>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  
-  <!-- Backend -->
-  <br>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
-  
-  <!-- DB / Cloud -->
-  <br>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
-  <!-- Mobile & AI -->
-  <br>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
-  <!-- Tools -->
-  <br>
+### 🤖 AI/ML & DevOps Tools
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nileshrathore22&show_icons=true&theme=onedark" alt="Nilesh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshrathore22&theme=onedark" alt="Nilesh's Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshrathore22&layout=compact&theme=onedark" alt="Top Languages" />
-</p>
+<br>
 
-### 🚀 Projects
+## 📊 Performance & Contributions
 
-#### [AUTOEVAL AI | AI-Powered Evaluation System](https://github.com/nileshrathore22)
-- Architected an NLP-based evaluation engine, improving answer assessment efficiency by ~40% through semantic similarity modeling.
-- Built scalable backend services and REST APIs handling 1000+ evaluation requests in testing scenarios.
-- Integrated MongoDB and Firebase for secure data storage and authentication, reducing manual grading effort by ~50%.
-- Optimized text processing pipelines, improving evaluation consistency and reducing response time by ~30%.
-- **Tech**: Python, ML, NLP, Node.js, MongoDB, Firebase, Flask, APIs, Git
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nileshrathore22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshrathore22&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
+</div>
 
-#### [FLOATCHAT | Real-Time Full Stack Chat Platform](https://github.com/nileshrathore22/FloatChat)
-- Engineered a real-time chat application enabling low-latency bidirectional communication (<200ms).
-- Designed scalable API-driven backend with Supabase and Firebase, supporting concurrent user sessions.
-- Improved data synchronization efficiency and session handling, enhancing overall system responsiveness by ~25%.
-- **Tech**: React.js, Node.js, Supabase, Firebase, APIs, Git
+<br>
 
-#### [AUGRAT | Android Static Analysis & Benchmarking Tool](https://github.com/nileshrathore22)
-- Developed a system to generate controlled buggy Android code for benchmarking analysis tools.
-- Evaluated performance of vulnerability and memory leak detection tools across multiple test cases.
-- Improved testing coverage by ~30% through structured test case design and automation.
-- **Tech**: Java, Flutter, HTML, CSS, JavaScript, Git
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshrathore22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nileshrathore22&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" width="48%" />
+</div>
 
-### 🏆 Certifications & Achievements
-- Solved **250+ DSA problems** on LeetCode and CodeChef, focusing on optimization and algorithmic patterns.
-- **Postman API Fundamentals Student Expert**.
-- **NPTEL Certifications**: Machine Learning, Computer Networks and Internet Protocol, Python with Data Science.
+<br>
+
+## 📂 Featured Architecture & Engineering
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[AUTOEVAL AI](https://github.com/nileshrathore22)** | NLP-based evaluation engine. Architected a highly concurrent REST API layer capable of handling 1000+ requests, improving assessment efficiency by 40%. | `Python`, `NLP`, `Node.js`, `MongoDB` |
+| **[FLOATCHAT](https://github.com/nileshrathore22/FloatChat)** | Real-time full-stack chat platform. Engineered for low-latency (<200ms) synchronous communication using robust connection handling and Supabase. | `React.js`, `Node.js`, `Supabase`, `Firebase` |
+| **[AUGRAT](https://github.com/nileshrathore22)** | Android benchmark generator. Developed structured generation pipelines to evaluate deep memory leak tools, expanding test coverage by 30%. | `Java`, `Flutter`, `Design Patterns` |
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
