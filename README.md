@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561115ce-5c7e-4613-81b3-6c7db9e64d08.gif" alt="Interactive Dev GIF" width="500" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="450" />
 </div>
 
 <div align="center">
@@ -16,18 +16,22 @@
   <a href="https://www.instagram.com/_nilesh_7_x_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=nileshrathore22&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
 
 ## 🚀 About Me
+
 I am a **Software Engineer** specializing in **Backend Development, System Design, and Data-Driven Architecture**. I focus on building highly scalable, fault-tolerant enterprise applications and integrating AI models to solve complex real-world problems.
 
-- 🏗️ **Core Focus:** Distributed Systems, Microservices, API Design, and Database Optimization.
-- ⚙️ **Currently Engineering:** Low-latency backend services ensuring high availability with **Spring Boot**.
-- 🧠 **AI/ML Integration:** Developing NLP-driven engines and machine learning pipelines.
-- 🎓 **Academics:** B.Tech in Computer Science, Sangam University (9.22 GPA).
-- 🏆 **Milestones:** Solved **250+** LeetCode/CodeChef DSA challenges, emphasizing algorithmic efficiency.
+- 🏗️ **Core Focus:** Distributed Systems, Microservices, API Design, and Database Optimization
+- ⚙️ **Currently Engineering:** Low-latency backend services with **Spring Boot**
+- 🧠 **AI/ML Integration:** NLP-driven engines and ML pipelines
+- 🎓 **Academics:** B.Tech CS, Sangam University **(9.22 GPA)**
+- 🏆 **DSA:** Solved **250+** LeetCode & CodeChef problems
+
+---
 
 ## 🛠️ Tech Stack & Arsenal
 
@@ -36,6 +40,7 @@ I am a **Software Engineer** specializing in **Backend Development, System Desig
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -49,40 +54,55 @@ I am a **Software Engineer** specializing in **Backend Development, System Desig
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🤖 AI/ML & DevOps
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🤖 AI/ML & Dev Tools
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 Performance & Contributions
+---
+
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nileshrathore22&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshrathore22&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshrathore22&theme=radical&hide_border=true" alt="GitHub Streak" width="70%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshrathore22&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=nileshrathore22&theme=radical&no-frame=true&no-bg=true" alt="Trophies" width="48%" />
-</div>
-
-## 📂 Interactive Project Cards
+<br/>
 
 <div align="center">
-  <a href="https://github.com/nileshrathore22/AutoEvalAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nileshrathore22&repo=AutoEvalAI&theme=radical" alt="AutoEvalAI" width="48%" />
-  </a>
-  <a href="https://github.com/nileshrathore22/floatchat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nileshrathore22&repo=floatchat&theme=radical" alt="FloatChat" width="48%" />
+  <a href="https://github.com/nileshrathore22">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nileshrathore22&theme=radical" alt="contribution graph" width="95%"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/nileshrathore22/driv_in">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nileshrathore22&repo=driv_in&theme=radical" alt="Driv_In" width="48%" />
+  <a href="https://github.com/nileshrathore22">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nileshrathore22&theme=radical" alt="stats" width="32%"/>
   </a>
-  <a href="https://github.com/nileshrathore22/my-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nileshrathore22&repo=my-portfolio&theme=radical" alt="My Portfolio" width="48%" />
+  <a href="https://github.com/nileshrathore22">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nileshrathore22&theme=radical" alt="top langs" width="32%"/>
+  </a>
+  <a href="https://github.com/nileshrathore22">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nileshrathore22&theme=radical" alt="productive time" width="32%"/>
   </a>
 </div>
+
+---
+
+## 📂 Featured Projects
+
+| 🚀 Project | 📝 Description | 🛠 Stack |
+|---|---|---|
+| **[AutoEvalAI](https://github.com/nileshrathore22/AutoEvalAI)** | NLP-based evaluation engine. ~40% faster assessment, handles 1000+ requests. Reduced manual grading by 50%. | Python · NLP · Flask · MongoDB · Firebase |
+| **[FloatChat](https://github.com/nileshrathore22/floatchat)** | Real-time chat platform with <200ms latency, concurrent session management. | React.js · Node.js · Supabase · Firebase |
+| **[Driv_In](https://github.com/nileshrathore22/driv_in)** | Scalable Django REST backend with clean app architecture and SQLite integration. | Python · Django · REST APIs |
+| **[AUGRAT](https://github.com/nileshrathore22)** | Android static analysis tool for benchmarking vulnerability detection tools. +30% test coverage. | Java · Flutter |
+
+---
+
+## 🏆 Achievements
+- 🧩 **250+ DSA Problems** solved on LeetCode & CodeChef
+- 📜 **Postman API Fundamentals Student Expert**
+- 🎓 **NPTEL** – Machine Learning | Computer Networks | Python with Data Science
