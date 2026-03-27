@@ -1,82 +1,48 @@
 <div align="center">
-  <h1>Hi there, I'm Nilesh Rathore! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" /></h1>
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer;Backend+Development+%26+System+Design;Scalable+Infrastructure;Spring+Boot+%26+Microservices+Architect" alt="Typing SVG" />
-    </a>
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/nilesh-rathore-5a62ab325"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/_nilesh_7_x_/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>
-    <a href="mailto:nileshrathore1522@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>
-  </p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300">
+  <br>
+  <h1>Hi there, I'm Nilesh Rathore! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" /></h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Software+Engineer;Backend+Development+%26+System+Design;Scalable+Infrastructure;Spring+Boot+%26+Microservices+Architect" alt="Typing SVG" />
+  <br><br>
+  <a href="https://www.linkedin.com/in/nilesh-rathore-5a62ab325"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/_nilesh_7_x_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:nileshrathore1522@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 <br>
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="55%" align="left" style="border: none;">
-      <h2>🚀 About Me</h2>
-      <p>I'm a passionate <b>Software Engineer</b> dedicated to building highly scalable, fault-tolerant backend architectures. I enjoy solving complex engineering challenges and integrating AI/ML models to build real-world intelligent systems.</p>
-      <ul>
-        <li>🔭 Currently focusing on <b>System Design</b> and <b>High-Performance APIs</b></li>
-        <li>🌱 Mastering <b>Spring Boot, Microservices, and Cloud Native Tech</b></li>
-        <li>💻 Proud solver of <b>250+ DSA problems</b> on LeetCode & CodeChef</li>
-        <li>🎓 B.Tech Computer Science graduate from Sangam University (9.22 GPA)</li>
-        <li>💬 Ask me about exactly how to scale robust backend systems!</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" style="border: none;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding GIF" width="90%" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+## 🚀 About Me
+I'm a passionate **Software Engineer** dedicated to building highly scalable, fault-tolerant backend architectures. I enjoy solving complex engineering challenges and integrating intelligent models to build real-world systems.
+
+- 🔭 Currently focusing on **System Design** and **High-Performance APIs**
+- 🌱 Mastering **Spring Boot, Microservices, and Cloud Native Tech**
+- 💻 Proud solver of **250+ DSA problems** on LeetCode & CodeChef
+- 🎓 B.Tech Computer Science graduate from Sangam University (9.22 GPA)
+- 💬 Ask me about **Java, Python, Django, or System Design**
 
 <br>
 
-## 💻 Technical Arsenal
-
+## 💻 Tech Stack
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Backend & Systems</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs,django,express,fastapi,kafka&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Languages</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Databases & Cloud</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,redis&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Tools & DevOps</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,react&theme=dark" /></td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,ts,react,spring,nodejs,django,express,mongodb,postgres,mysql,firebase,supabase,redis,docker,git,postman,linux,github&theme=dark&perline=10" alt="Tech Stack" />
 </div>
 
 <br>
 
-## 📊 Performance Metrics
-
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=nileshrathore22&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
-    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshrathore22&theme=radical&hide_border=true&layout=compact" alt="Top Languages" /></td>
-  </tr>
-</table>
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nileshrathore22&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshrathore22&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshrathore22&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br><br>
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=nileshrathore22&icon=4&color=2" alt="Profile Views" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Always+learning+%7C+Always+building+%7C+Always+improving." alt="Footer Typing SVG" />
 </div>
