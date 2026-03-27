@@ -50,7 +50,7 @@ I'm a passionate **Software Engineer** dedicated to building highly scalable, fa
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
       <br>Node.js
     </td>
     <td align="center" width="96">
@@ -68,11 +68,11 @@ I'm a passionate **Software Engineer** dedicated to building highly scalable, fa
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="65" height="65" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="65" height="65" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
@@ -94,12 +94,12 @@ I'm a passionate **Software Engineer** dedicated to building highly scalable, fa
 
 ## 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nileshrathore22&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshrathore22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nileshrathore22&theme=dark&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshrathore22&theme=dark&layout=compact" alt="Top Languages" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshrathore22&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshrathore22&theme=dark" alt="GitHub Streak" />
 </div>
 
 <br>
