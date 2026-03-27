@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300">
   <br>
   <h1>Hi there, I'm Nilesh Rathore! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" /></h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Backend+Development+%26+System+Design;Scalable+Infrastructure;Spring+Boot+%26+Microservices+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=60&lines=Backend+Development+%26+System+Design;Scalable+Infrastructure;Spring+Boot+%26+Microservices+Architect" alt="Typing SVG" />
 </div>
 
 <br>
@@ -112,9 +112,13 @@ I'm a passionate **Software Engineer** dedicated to building highly scalable, fa
 <br>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=nileshrathore22&icon=4&color=2" alt="Profile Views" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nileshrathore22&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Always+learning+%7C+Always+inspiring+%7C+Always+improving." alt="Footer Typing SVG" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer&animation=fadeIn" />
