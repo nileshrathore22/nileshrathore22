@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="50" />
-  <h1 align="center">Hi, I'm Nilesh Rathore!</h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=36&pause=1000&color=2196F3&center=true&vCenter=true&width=500&height=60&lines=Hi,+I'm+Nilesh+Rathore!+👋" alt="Nilesh Rathore Typing SVG" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer+%7C+Backend+%26+System+Design;Scalable+Spring+Boot+%26+API+Architect;AI%2FML+%26+NLP+Integration+Expert" alt="Typing SVG" />
 </div>
 
@@ -28,7 +29,7 @@
 <br/>
 <hr>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="35" align="center" /> About Me
+## 👽 About Me
 
 I'm a **Software Engineer** specializing in **Backend Development, System Design & AI/ML**. I love building scalable, fault-tolerant systems and integrating intelligent models to solve real-world problems.
 
@@ -40,7 +41,7 @@ I'm a **Software Engineer** specializing in **Backend Development, System Design
 <br/>
 <hr>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" align="center" /> Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -61,7 +62,7 @@ I'm a **Software Engineer** specializing in **Backend Development, System Design
 <br/>
 <hr>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" align="center" /> Featured Projects
+## 🚀 Featured Projects
 
 | 🚀 Project | 📝 What It Does | 🛠 Stack |
 |:---|:---|:---|
@@ -73,7 +74,7 @@ I'm a **Software Engineer** specializing in **Backend Development, System Design
 <br/>
 <hr>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" align="center" /> GitHub Stats
+## 🏆 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshrathore22&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
