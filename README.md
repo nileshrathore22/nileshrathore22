@@ -92,7 +92,17 @@ I'm a passionate **Software Engineer** dedicated to building highly scalable, fa
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="80%" alt="Neon Line Divider"/>
 </div>
 
-## 📈 Profile Views:
+## 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nileshrathore22&theme=dark&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nileshrathore22&theme=dark&layout=compact" alt="Top Languages" />
+</p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=nileshrathore22&theme=dark" alt="GitHub Streak" />
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
