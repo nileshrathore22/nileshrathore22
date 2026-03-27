@@ -94,8 +94,8 @@ I'm a passionate **Software Engineer** dedicated to building highly scalable, fa
 
 ## 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nileshrathore22&theme=dark&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nileshrathore22&theme=dark&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nileshrathore22&theme=dark&layout=compact&hide=html,css,javascript,scss,jupyter%20notebook&custom_title=Top%20Backend%20Languages" alt="Top Backend Languages" />
+  <img src="https://streak-stats.demolab.com/?user=nileshrathore22&theme=dark" alt="GitHub Streak" />
 </p>
 
 <div align="center">
