@@ -93,13 +93,24 @@ I'm a passionate **Software Engineer** dedicated to building highly scalable, fa
 </div>
 
 ## 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nileshrathore22&theme=dark&layout=compact&hide=html,css,javascript,scss,jupyter%20notebook&custom_title=Top%20Backend%20Languages" alt="Top Backend Languages" />
-  <img src="https://streak-stats.demolab.com/?user=nileshrathore22&theme=dark" alt="GitHub Streak" />
-</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-95%25-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=nileshrathore22&theme=dark" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nileshrathore22&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </div>
 
 <br>
