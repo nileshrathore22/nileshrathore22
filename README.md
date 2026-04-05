@@ -18,7 +18,7 @@ I'm a passionate **Software Engineer** dedicated to building highly scalable, fa
 
 - 🔭 Currently focusing on **System Design** and **High-Performance APIs**
 - 🌱 Mastering **Spring Boot, Microservices, and Cloud Native Tech**
-- 💻 Proud solver of **250+ DSA problems** on LeetCode & CodeChef
+- 💻 Proud solver of **1000+ DSA problems** on LeetCode & CodeChef
 - 🎓 B.Tech Computer Science graduate from Sangam University
 - 💬 Ask me about **Java, Python, Django, or System Design**
 
